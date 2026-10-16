@@ -1,0 +1,6 @@
+{
+  "name": "Karaoke Songbook Organizer & Print Studio",
+  "description": "Organize, sort, format, and print 2-column karaoke songbooks with repeating page headers, alphabetical indexing, and PDF export for 47,000+ song lists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
